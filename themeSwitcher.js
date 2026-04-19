@@ -7,7 +7,7 @@ const injectMonochromeHomeContent = () => {
 const injectManychromeHomeContent = () => {
   const homeParagraph = document.querySelector(".page-tagline");
   homeParagraph.replaceChildren(
-    "Hey! I'm Hanna Harmon. Thanks for visiting my website. If you get bored and are viewing on a computer, feel free to draw in the background with left click. Refresh to clear."
+    "Hey! I'm Hanna Harmon! Thanks for visiting my website. If you get bored and are viewing on a computer, feel free to draw in the background with left click. Refresh to clear."
   );
 };
 
